@@ -5,7 +5,7 @@
 <script src="//code.jquery.com/jquery-1.12.4.js"></script>
 <script src="//code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <section class="sign-in-form-section">
-        <h4>Log in to your Snatch account!</h4>
+        <h4>log in to your SNATCH account!</h4>
         <div class="sign-in-form">
             <div class="details">
                 <div class="email-div">E-mail:<br><input id="email"></div><br>

@@ -50,7 +50,7 @@
         <!-- Header For Desktop -->
         <section class="desktop-header">
             <div>
-                <a href="MainMenu.aspx"><img src="img/office-cart-logo-grey.png" /></a>
+                <a href="MainMenu.aspx"><img src="img/snatch.jpg" /></a>
             </div>
         </section>
 
@@ -100,7 +100,7 @@
         <!--<section id="navbar-login" class="desktop-navbar row">
             <div class="column small-6 medium-3">
                 <ul class="menu left">
-                    <li><a href="MainMenu.aspx"><img src="img/office-cart-logo-grey.png" class="navbar-logo" /></a></li>
+                    <li><a href="MainMenu.aspx"><img src="img/snatch.jpg" class="navbar-logo" /></a></li>
                 </ul>
             </div>
             <div class="column small-6 medium-9">
@@ -148,7 +148,7 @@
                     </ul>
                 </div>
                 <div class="column">
-                    <img src="img/office-cart-logo-grey.png"/>
+                    <img src="img/snatch.jpg"/>
                 </div>
             </footer>
     </form>
