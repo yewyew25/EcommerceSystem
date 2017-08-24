@@ -5,6 +5,13 @@
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <configuration>
+    <packageRestore>
+        <!-- The 'enabled' key is True when the "Allow NuGet to download missing packages" checkbox is set.
+             Clearing the box sets this to False, disabling command-line, automatic, and MSBuild-Integrated restore. -->
+        <add key="enabled" value="True" />
+    </packageRestore>
+</configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>
     </ProductVersion>
