@@ -8,7 +8,7 @@
 
 .sign-in-form-section .sign-in-form {
     padding: 20px 10px 30px 10px;
-    font-size: 13px;
+    font-size: 14px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -18,7 +18,7 @@
 }
 
 .sign-in-form .details {
-    padding: 10px 0px 0px 36px;
+    padding: 10px 0px 0px 39px;
 }
 
 .sign-in-form input{
@@ -32,7 +32,7 @@
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    font-size: 10px;
+    font-size: 12px;
 }
 
 .sign-in-form .continue-button {
@@ -49,6 +49,7 @@
     -moz-transition: all 500ms ease;
     -o-transition: all 500ms ease;
     transition: all 500ms ease;
+    border-radius: 10px;
 }
 
 .sign-in-form .continue-button:hover {
