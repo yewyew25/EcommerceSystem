@@ -250,6 +250,7 @@
     <Content Include="img\product\Razer_4.png" />
     <Content Include="img\product\Razer_5.png" />
     <Content Include="img\product\Razer_6.png" />
+    <Content Include="img\snatch.jpg" />
     <Content Include="MainMenu.aspx" />
     <Content Include="PaymentGuide.aspx" />
     <Content Include="PurchaseForm.aspx" />
