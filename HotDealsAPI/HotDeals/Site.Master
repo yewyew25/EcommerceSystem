@@ -57,9 +57,9 @@
         <!-- Pop up detail for About US -->
         <div class="reveal" id="about_us" data-reveal>
             <h1>About Us</h1>
-            <p class="lead">HotDeals! The unique marketplace for all your everyday needs! At a price you can never resist!</p>
-            <p>XXXXXX (Domain Name) is a convenient and secure online shopping platform. Experience a unique platform where you can discover new brands, new products, and enjoy exclusive deals from Friday to Sunday.</p>
-            <p>We place great pride in ensuring our customers an absolutely safe and secure shopping experience on XXXXX, so that you can buy the products you want worry-free! As of today, our customers throughout the entire Klang Valley will be able to easily, quickly, and effectively receive their parcels in the next 24 working hours.</p>
+            <p class="lead">Snatch! The unique marketplace for all your everyday needs! At a price you can never resist!</p>
+            <p>Snatch is a convenient and secure online shopping platform. Experience a unique platform where you can discover new brands, new products, and enjoy exclusive deals from Friday to Sunday.</p>
+            <p>We place great pride in ensuring our customers an absolutely safe and secure shopping experience on Snatch, so that you can buy the products you want worry-free! As of today, our customers throughout the entire Klang Valley will be able to easily, quickly, and effectively receive their parcels in the next 24 working hours.</p>
             <p>We strive towards excellence in our service and keep our prime focus on local demands. We acquire and transport items to everyone that we serve to continually build towards a better, simpler and more convenient marketplace platform.</p>
             <button class="close-button" data-close aria-label="Close modal" type="button">
             <span aria-hidden="true">&times;</span>
@@ -147,8 +147,13 @@
                         <li>Address: E3-4, Mutiara Damansara.</li>
                     </ul>
                 </div>
-                <div class="column">
-                    <img src="img/snatch.jpg"/>
+                <div class="column footer-social-icon">
+                    <h5>Or follow us on social media!</h5>
+                    <ul>
+                        <li><a href="#"><i class="fi-social-facebook"></i></a></li>
+                        <li style="display:inline-block"><a href="#"><i class="fi-social-twitter"></i></a></li>
+                        <li><a href="#"><i class="fi-social-google-plus"></i></a></li>
+                    </ul>
                 </div>
             </footer>
     </form>
