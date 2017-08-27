@@ -130,7 +130,7 @@
             <div class="apology">
                 <h1>Our apologies!</h1><br>
                 <p>Sorry, but we are all sold out for our latest product!</p>
-                <p>Please visit us again for better products to come in the future, or look at the list below for products that were featured on HotDeals in the past!</p>
+                <p>Please visit us again for better products to come in the future, or look at the list below for products that were featured on Snatch in the past!</p>
             </div>
             <h2>We look forward to serving you in the future!</h2>
         </section>
