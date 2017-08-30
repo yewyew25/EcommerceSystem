@@ -38,6 +38,4 @@ After order is placed, all your orders will be stored in your history. Feel free
 
 While it is still in early development and you will be unable to actually purchase an item in real life through this website (for now), we aim to take a different approach compared to other e-commerce websites with our unique concept through Snatch; which only focuses on selling 1 item at a time.
 
-We strive towards excellence in our service and keep our prime focus on local demands. We acquire and transport items to everyone that we serve to continually build towards a better, simpler and more convenient marketplace platform.
-
 So, what are you waiting for? Browse our webpage and SNATCH the items you want!
